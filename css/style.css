@@ -19,6 +19,8 @@ ul {
 
 img {
     max-width: 100%;
+    border-image-width: 100%;
+    padding-top: 55px;
 }
 
 a,
@@ -302,7 +304,7 @@ p {
 }
 
 .navbar {
-    min-height: 40px;
+    min-height: 50px;
     margin-bottom: 0px;
     text-align: center;
 }
